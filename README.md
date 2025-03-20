@@ -28,7 +28,7 @@ This integration allows AI Medi Bot to function like a real medical assistant, i
 
 ### 1️⃣ Clone the repository 
 ```sh 
-git clone https://github.com/your-username/ai-medi-bot.git
+git clone https://github.com/surajChauhan83/ai-medi-bot.git
 cd ai-medi-bot
 ```
 
