@@ -1,0 +1,8 @@
+groq
+python-dotenv
+speechrecognition
+pydub
+pyaudio
+gtts
+playsound
+gradio
