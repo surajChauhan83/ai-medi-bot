@@ -26,7 +26,18 @@ This integration allows AI Medi Bot to function like a real medical assistant, i
 
 ## 📌 Setup Instructions  
 
-### 1️⃣ Clone the repository  
-```sh
+### 1️⃣ Clone the repository 
+```sh 
 git clone https://github.com/your-username/ai-medi-bot.git
 cd ai-medi-bot
+```
+
+### 2️⃣ Install dependencies
+```sh
+pip install -r requirements.txt
+``` 
+
+### 3️⃣ Run the application
+```sh
+python gradio_app.py
+```
